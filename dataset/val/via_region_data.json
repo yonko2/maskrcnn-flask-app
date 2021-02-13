@@ -1,0 +1,570 @@
+{
+  "car scratch 1.png9515": {
+    "filename": "car scratch 1.png",
+    "size": 9515,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 131, 154, 153, 145, 145, 156, 156, 142, 140, 140, 135, 133, 133, 139, 129 ],
+          "all_points_y": [ 105, 101, 105, 107, 112, 111, 115, 115, 116, 114, 118, 118, 111, 108, 108 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 133, 136, 142, 142, 146, 139, 131, 130 ],
+          "all_points_y": [ 140, 146, 148, 151, 154, 156, 149, 140 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 112, 123, 124, 123, 109, 110 ],
+          "all_points_y": [ 135, 141, 146, 148, 142, 134 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "car scratch 2.png6596": {
+    "filename": "car scratch 2.png",
+    "size": 6596,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 21, 41, 45, 49, 47, 39, 34, 31, 35, 38, 40, 40, 37, 37, 30, 19, 18 ],
+          "all_points_y": [ 167, 169, 175, 184, 201, 218, 219, 217, 210, 202, 197, 189, 182, 177, 175, 171, 167 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 2, 9, 8, 1 ],
+          "all_points_y": [ 163, 164, 167, 166 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 47, 79, 77, 39, 36 ],
+          "all_points_y": [ 34, 40, 45, 43, 39 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "car scratch 4.png9955": {
+    "filename": "car scratch 4.png",
+    "size": 9955,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 36, 68, 98, 99, 69, 57, 51, 77, 89, 88, 85, 83, 78, 74, 78, 78, 67, 58, 57, 60, 56, 52, 45, 45, 45, 40, 33, 27, 28, 36 ],
+          "all_points_y": [ 157, 161, 156, 158, 169, 173, 175, 177, 176, 181, 188, 193, 198, 197, 202, 205, 205, 205, 200, 195, 192, 192, 186, 182, 176, 173, 170, 165, 160, 156 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "car scratch 5.png9557": {
+    "filename": "car scratch 5.png",
+    "size": 9557,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 236, 259, 256, 227, 221, 185, 161, 146, 130, 138, 155, 169, 198, 206, 187, 182, 207, 225, 238, 245 ],
+          "all_points_y": [ 38, 40, 51, 66, 73, 109, 142, 169, 173, 153, 120, 97, 75, 65, 57, 50, 49, 44, 41, 41 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 143, 160, 155, 127, 103, 94, 112, 117 ],
+          "all_points_y": [ 70, 79, 89, 93, 91, 91, 81, 72 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 70, 68, 68, 73, 70, 80, 99, 119, 119, 109, 95, 90, 96, 115, 134, 148, 152, 153 ],
+          "all_points_y": [ 118, 129, 139, 145, 153, 161, 164, 164, 158, 154, 144, 135, 130, 122, 120, 119, 119, 113 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 10, 29, 62, 48, 25, 14, 13, 7, 6 ],
+          "all_points_y": [ 145, 149, 157, 146, 138, 129, 120, 130, 139 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 97, 61, 152, 193, 201, 96, 115, 106 ],
+          "all_points_y": [ 34, 45, 48, 47, 43, 41, 36, 32 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 71, 60, 46, 42, 40, 58, 69, 74, 103, 115 ],
+          "all_points_y": [ 77, 82, 81, 89, 94, 90, 88, 82, 81, 74 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 164, 73, 74, 168 ],
+          "all_points_y": [ 91, 93, 99, 96 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 129, 80, 78, 30, 30, 84, 128 ],
+          "all_points_y": [ 164, 167, 171, 166, 171, 177, 172 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "car scratch 8.png9119": {
+    "filename": "car scratch 8.png",
+    "size": 9119,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 123, 125, 115, 109, 115 ],
+          "all_points_y": [ 26, 32, 42, 42, 29 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 111, 107, 104, 96, 90, 86, 84, 95, 101, 106, 110 ],
+          "all_points_y": [ 47, 56, 62, 73, 84, 87, 84, 65, 55, 47, 45 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 89, 90, 96, 89, 85, 83, 81, 80, 77, 77, 79, 82, 86 ],
+          "all_points_y": [ 90, 92, 88, 97, 98, 101, 105, 107, 107, 102, 97, 91, 88 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 62, 59, 62, 64, 67, 64 ],
+          "all_points_y": [ 150, 157, 159, 154, 150, 148 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 103, 102, 107, 108 ],
+          "all_points_y": [ 84, 88, 87, 82 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "car scratch 17.png8736": {
+    "filename": "car scratch 17.png",
+    "size": 8736,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 121, 135, 151, 164, 179, 187, 173, 164, 153, 141, 133, 126, 123, 118, 111, 107, 101, 101, 111 ],
+          "all_points_y": [ 51, 56, 58, 67, 85, 94, 90, 80, 73, 67, 67, 65, 62, 65, 68, 71, 71, 63, 63 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 106, 158, 211, 209, 133, 117, 109, 103 ],
+          "all_points_y": [ 80, 100, 126, 131, 95, 91, 88, 83 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 114, 130, 133, 125, 117, 108, 108 ],
+          "all_points_y": [ 107, 117, 122, 123, 121, 119, 110 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 105, 126, 115, 137, 135, 113, 110, 101 ],
+          "all_points_y": [ 123, 135, 136, 150, 153, 140, 141, 132 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 196, 208, 207, 195 ],
+          "all_points_y": [ 135, 143, 147, 140 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 199, 209, 209, 210, 209, 205, 202 ],
+          "all_points_y": [ 150, 154, 158, 163, 165, 162, 156 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 117, 129, 124, 114 ],
+          "all_points_y": [ 100, 104, 107, 101 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "car scratch 18.png5438": {
+    "filename": "car scratch 18.png",
+    "size": 5438,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 94, 138, 168, 174, 167, 165, 124, 97, 83, 80, 88 ],
+          "all_points_y": [ 37, 41, 42, 47, 52, 57, 55, 55, 55, 45, 42 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      },
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 199, 138, 126, 110, 93, 79, 79, 91, 86, 86, 106, 129, 151, 171, 180, 181, 179, 195, 202, 204 ],
+          "all_points_y": [ 66, 60, 60, 63, 63, 77, 99, 111, 121, 127, 128, 128, 129, 129, 129, 102, 88, 85, 69, 66 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  },
+  "car scratch 19.png7078": {
+    "filename": "car scratch 19.png",
+    "size": 7078,
+    "regions": [
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [ 104, 101, 94, 87, 64, 52, 48, 28, 32, 32, 43, 60, 93, 95, 122, 129, 138, 143, 150, 157, 160, 162, 167, 165, 162, 149, 143, 140, 133, 129, 116, 112, 110 ],
+          "all_points_y": [ 60, 69, 72, 72, 61, 52, 56, 45, 53, 58, 64, 75, 93, 102, 128, 136, 144, 154, 162, 160, 153, 143, 131, 119, 111, 102, 91, 85, 74, 63, 66, 64, 57 ]
+        },
+        "region_attributes": {
+          "name": "damage",
+          "type": "unknown",
+          "image_quality": {
+            "good": true,
+            "frontal": true,
+            "good_illumination": true
+          }
+        }
+      }
+    ],
+    "file_attributes": {
+      "caption": "",
+      "public_domain": "no",
+      "image_url": ""
+    }
+  }
+}
