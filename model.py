@@ -120,5 +120,6 @@ def visualize_image(file_path,model,dataset,config):
     visualize.display_instances(image1, r1['rois'], r1['masks'], r1['class_ids'],
                                 dataset.class_names, r1['scores'], ax=ax,
                                 title="Predictions1")
-    plt.savefig('b.jpg', bbox_inches='tight', pad_inches=-0.5, orientation='landscape')
+    plt.savefig('output.jpg', bbox_inches='tight', pad_inches=-0.5, orientation='landscape')
+    os.startfile('output.jpg')
     # clear_session()  # clears session to allow multiple images being processed

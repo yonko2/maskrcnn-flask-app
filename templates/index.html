@@ -1,7 +1,5 @@
 {% extends "base.html" %} {% block content %}
 
-<h1>Remove Background</h1>
-
 <div>
     <form id="upload-file" method="post" enctype="multipart/form-data">
         <label for="imageUpload" class="upload-label">
@@ -24,18 +22,9 @@
 
     <div class="loader" style="display:none;"></div>
 
-    <h3 id="result">
-        <span> </span>
-    </h3>
-    <img src="b.jpg"/>
-    <div class="result_img-section" style="
-                                           display:none;
-                                           ">
-        <div class="img-preview">
-
-        </div>
-    </div>
 </div>
-<img src="b.png"/>
+<div id="result">
+
+</div>
 
 {% endblock %}
